@@ -2,7 +2,7 @@ This is the code for the paper [**Polarization in social media assists influence
 
 The code is written in Julia. In case you use this code, please cite the paper:
 
-'''
+```
 @article{garibay2019polarization,
   title={Polarization in social media assists influencers to become more influential: analysis and two inoculation strategies},
   author={Garibay, Ivan and Mantzaris, Alexander V and Rajabi, Amirarsalan and Taylor, Cameron E},
@@ -13,4 +13,4 @@ The code is written in Julia. In case you use this code, please cite the paper:
   year={2019},
   publisher={Nature Publishing Group}
 }
-'''
+```
